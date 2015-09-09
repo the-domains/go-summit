@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.convergesummit.com/'
 title: GO Summit - Street Smarts for Creative Entrepreneurs
-datePublished: '2015-09-09T21:53:28.396Z'
-dateModified: '2015-09-09T21:52:58.680Z'
+datePublished: '2015-09-09T21:56:30.337Z'
+dateModified: '2015-09-09T21:53:28.396Z'
 sourcePath: _posts/2015-09-09-go-summit-street-smarts-for-creative-entrepreneurs.md
 published: true
 _context: 'http://schema.org'
