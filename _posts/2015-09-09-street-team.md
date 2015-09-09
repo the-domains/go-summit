@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.convergesummit.com/street-team/'
 title: Street Team
-datePublished: '2015-09-09T21:59:53.302Z'
-dateModified: '2015-09-09T21:59:26.317Z'
+datePublished: '2015-09-09T22:07:39.482Z'
+dateModified: '2015-09-09T21:59:53.302Z'
 sourcePath: _posts/2015-09-09-street-team.md
 published: true
 _context: 'http://schema.org'
