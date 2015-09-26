@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
+  favicon: 'http://www.convergesummit.com/wp-content/uploads/fbrfg/favicon.ico?v=xQw2MEwJBN'
   url: 'http://www.convergesummit.com'
   name: Convergesummit
-  favicon: 'http://www.convergesummit.com/wp-content/uploads/fbrfg/favicon.ico?v=xQw2MEwJBN'
   domain: www.convergesummit.com
 keywords:
   - summit
@@ -22,10 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.convergesummit.com/'
 title: GO Summit - Street Smarts for Creative Entrepreneurs
-datePublished: '2015-09-09T21:56:30.337Z'
-dateModified: '2015-09-09T21:53:28.396Z'
+datePublished: '2015-09-26T14:20:42.570Z'
+dateModified: '2015-09-26T14:20:24.712Z'
 sourcePath: _posts/2015-09-09-go-summit-street-smarts-for-creative-entrepreneurs.md
 published: true
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
