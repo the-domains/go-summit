@@ -5,8 +5,15 @@
         <description><![CDATA[Go Summit]]></description>
         <link>https://thegrid.ai/go-summit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Sep 2015 22:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 14:20:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/go-summit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GO Summit - Street Smarts for Creative Entrepreneurs]]></title>
+            <description><![CDATA[<article><h1>GO Summit - Street Smarts for Creative Entrepreneurs</h1><p>Street Smarts for Creative Entrepreneurs</p></article>]]></description>
+            <link>http://www.convergesummit.com/</link>
+            <guid isPermaLink="false">143a53c0-d63c-4405-afc6-33e524f66f8c</guid>
+            <pubDate>Sat, 26 Sep 2015 14:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.convergesummit.com/wp-content/uploads/2015/08/Program-Header1.jpg">]]></description>
@@ -34,13 +41,6 @@
             <link>http://www.convergesummit.com/program/</link>
             <guid isPermaLink="false">b5f1fb2a-4767-4cb7-8a48-a0ebb3dc8ee3</guid>
             <pubDate>Wed, 09 Sep 2015 22:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GO Summit - Street Smarts for Creative Entrepreneurs]]></title>
-            <description><![CDATA[<article><h1>GO Summit - Street Smarts for Creative Entrepreneurs</h1><p>Street Smarts for Creative Entrepreneurs</p></article>]]></description>
-            <link>http://www.convergesummit.com/</link>
-            <guid isPermaLink="false">143a53c0-d63c-4405-afc6-33e524f66f8c</guid>
-            <pubDate>Wed, 09 Sep 2015 21:56:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
