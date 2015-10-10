@@ -1,26 +1,39 @@
-name: Go Summit
-favicon: null
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
+name: Go Summit
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+typography_spectrum: 0
 color:
+  saturation: 0.5
+  brandStrength: 1
+  rhythmicContrast: 0.5
   brandColors:
     - '#fc5d3f'
     - '#105d6a'
     - '#ecf1f7'
     - '#73cbce'
     - '#508aba'
-  brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
