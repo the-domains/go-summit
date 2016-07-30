@@ -1,9 +1,31 @@
-favicon: null
-name: Go Summit
+typography_spectrum: 0.5
+color:
+  saturation: 0.8125
+  brandStrength: 0
+  lightness: 0.5
+  brandColors:
+    - '#fc5d3f'
+    - '#105d6a'
+    - '#ecf1f7'
+    - '#73cbce'
+    - '#508aba'
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.13792409538291395
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Go Summit
+cta:
+  bucket: null
+  version: null
+  domain: null
+style: the-composer
+favicon: null
 collections:
   - index:
       path: /
@@ -16,26 +38,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+description: street smarts
 purpose: []
-color:
-  saturation: 0.8125
-  brandStrength: 0
-  lightness: 0.5
-  brandColors:
-    - '#fc5d3f'
-    - '#105d6a'
-    - '#ecf1f7'
-    - '#73cbce'
-    - '#508aba'
-  rhythmicContrast: 0.75
-typography_spectrum: 0.5
-style: the-composer
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.13792409538291395
-analytics:
-  twitter: null
-  google: null
-  facebook: null
